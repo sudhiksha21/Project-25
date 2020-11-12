@@ -33,11 +33,12 @@ function setup() {
 function draw() {
   rectMode(CENTER);
   background("lightblue");
-  bin1.display();
+  ball.display();
+bin1.display();
   bin2.display();
    bin3.display();
    ground.display();
- ball.display();
+
  
 
 
